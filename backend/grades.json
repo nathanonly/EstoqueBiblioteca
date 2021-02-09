@@ -1,0 +1,29 @@
+{
+  "nextId": 4,
+  "grades": [
+    {
+      "id": 1,
+      "student": "O Senhor dos Anéis",
+      "subject": "Tolkien",
+      "type": "EditoraM",
+      "value": "Fantasia",
+      "timestamp": "2021-02-05T18:35:50.426Z"
+    },
+    {
+      "id": 2,
+      "student": "As Crônicas de Nárnia",
+      "subject": "C.S. Lewis",
+      "type": "EditoraN",
+      "value": "Fantasia",
+      "timestamp": "2021-02-05T18:35:50.449Z"
+    },
+    {
+      "id": 3,
+      "student": "Marés de Guerra",
+      "subject": "Christie Golden",
+      "type": "EditoraB",
+      "value": "Fantasia",
+      "timestamp": "2021-02-05T18:35:50.469Z"
+    }
+  ]
+}
